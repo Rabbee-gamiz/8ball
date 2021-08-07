@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:ital,wght@1,300&family=Noto+Sans+JP&display=swap');
+#main1 {
+  font-family: 'Georama', sans-serif;
+}
+p{
+  font-family: Georama , sans-serif;
+}
+button{
+  width: 50px !important;
+}
